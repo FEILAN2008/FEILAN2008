@@ -9,11 +9,11 @@ Previously, I worked in logistics, operations, and hospitality, which strengthen
 
 
 ## Featured Projects
-### 🔹 Job Application Tracker (Full-Stack PWA)
+### 🔹 [Job Application Tracker (Full-Stack PWA)](https://github.com/FEILAN2008/job-tracker-java)
 A solo-built Java + React Progressive Web App for tracking job applications.
 Demonstrates RESTful API design, persistence, PWA app shell, and responsive UI.
 
-### 🔹 Early Learning Lab – Gamified Research Platform
+### 🔹 [Early Learning Lab – Gamified Research Platform](https://github.com/FEILAN2008/UoA-Capstone-Cognitive-Research-Platform)
 Led a 6-person team to deliver a gamified cognitive research platform for early childhood studies.
 Focused on requirement translation, Agile delivery, and child-centric UI/UX design.
 
